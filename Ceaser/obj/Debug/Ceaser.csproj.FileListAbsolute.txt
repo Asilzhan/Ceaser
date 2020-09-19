@@ -1,0 +1,6 @@
+C:\Users\Asylzhan\RiderProjects\Ceaser\Ceaser\bin\Debug\Ceaser.exe
+C:\Users\Asylzhan\RiderProjects\Ceaser\Ceaser\bin\Debug\Ceaser.pdb
+C:\Users\Asylzhan\RiderProjects\Ceaser\Ceaser\obj\Debug\Ceaser.csprojAssemblyReference.cache
+C:\Users\Asylzhan\RiderProjects\Ceaser\Ceaser\obj\Debug\Ceaser.csproj.CoreCompileInputs.cache
+C:\Users\Asylzhan\RiderProjects\Ceaser\Ceaser\obj\Debug\Ceaser.exe
+C:\Users\Asylzhan\RiderProjects\Ceaser\Ceaser\obj\Debug\Ceaser.pdb
